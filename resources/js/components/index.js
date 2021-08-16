@@ -55,9 +55,7 @@ renderTaskApi();
 //Вывожу главную таблицу
 renderTable();
 
-//фильтер api
-//filterApiJune();
-//filterApiJuly();
+
 
 const popupButton= document.querySelector('.form-button');
 const popupTaskAdd = new PopupTaskAdd(popupTask,taskButtonAdd);

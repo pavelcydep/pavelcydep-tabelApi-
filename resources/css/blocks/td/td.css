@@ -1,0 +1,9 @@
+@import url('./__user/td__user.css');
+@import url('./td__recycling/td__recycling.css');
+@import url('./td__time/td__time.css');
+td{
+    color:black;
+   
+}
+
+
